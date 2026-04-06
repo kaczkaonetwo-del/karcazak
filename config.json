@@ -1,0 +1,28 @@
+{
+  "serverSettings": {
+    "verificationMinAgeDays": 7,
+    "verifiedRoleName": "Verified",
+    "logCommands": true,
+    "branding": {
+      "primaryColor": "#2b2d31",
+      "successColor": "#2ecc71",
+      "errorColor": "#e74c3c",
+      "warningColor": "#f1c40f",
+      "footerText": "Karczak Scripts • Security System",
+      "thumbnailUrl": "https://i.imgur.com/8Q9Z4Z8.png"
+    }
+  },
+  "modals": {
+    "enabled": true,
+    "title": "Karczak Scripts Verification",
+    "question": "How did you find Karczak Scripts?"
+  },
+  "commands": {
+    "help": {
+      "description": "Information about the bot and commands"
+    },
+    "setup": {
+      "description": "Initialize verification message (Admin only)"
+    }
+  }
+}
